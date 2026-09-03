@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "owner": "104madlife",
+  "projects": [
+    {
+      "name": "AutoDirector2077",
+      "game": "Cyberpunk 2077",
+      "path": "AutoDirector2077",
+      "url": "https://github.com/104madlife/AutoDirector2077.git",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "GetCam2077",
+      "game": "Cyberpunk 2077",
+      "path": "GetCam2077",
+      "url": "https://github.com/104madlife/GetCam2077.git",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "AutoEldenRing",
+      "game": "Elden Ring",
+      "path": "AutoEldenRing",
+      "url": "https://github.com/104madlife/AutoEldenRing.git",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "GTAVAutoDriver",
+      "game": "Grand Theft Auto V",
+      "path": "GTAVAutoDriver",
+      "url": "https://github.com/104madlife/GTAVAutoDriver.git",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "RDR2AutoDriver",
+      "game": "Red Dead Redemption 2",
+      "path": "RDR2AutoDriver",
+      "url": "https://github.com/104madlife/RDR2AutoDriver.git",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Witcher3AutoDriver",
+      "game": "The Witcher 3",
+      "path": "Witcher3AutoDriver",
+      "url": "https://github.com/104madlife/Witcher3AutoDriver.git",
+      "defaultBranch": "main"
+    }
+  ]
+}

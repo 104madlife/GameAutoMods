@@ -1,0 +1,9 @@
+# Local-only Mod that is intentionally excluded from the public collection.
+/AutoGhostTsushima/
+
+# Root-level local state.
+.mod-project.local.*
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

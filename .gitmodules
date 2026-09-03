@@ -1,0 +1,18 @@
+[submodule "AutoDirector2077"]
+	path = AutoDirector2077
+	url = https://github.com/104madlife/AutoDirector2077.git
+[submodule "AutoEldenRing"]
+	path = AutoEldenRing
+	url = https://github.com/104madlife/AutoEldenRing.git
+[submodule "GetCam2077"]
+	path = GetCam2077
+	url = https://github.com/104madlife/GetCam2077.git
+[submodule "GTAVAutoDriver"]
+	path = GTAVAutoDriver
+	url = https://github.com/104madlife/GTAVAutoDriver.git
+[submodule "RDR2AutoDriver"]
+	path = RDR2AutoDriver
+	url = https://github.com/104madlife/RDR2AutoDriver.git
+[submodule "Witcher3AutoDriver"]
+	path = Witcher3AutoDriver
+	url = https://github.com/104madlife/Witcher3AutoDriver.git
